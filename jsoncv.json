@@ -1,0 +1,102 @@
+{
+    "basics": {
+        "name": "Sanjay Bhargav",
+        "label": "Student",
+        "picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
+        "email": "2021kucp1076@iiitkota.ac.in",
+        "phone": "+918374990965",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & Engineering..",
+        "location": {
+            "address": "Srikakulam, Andhrapradesh",
+            "postalCode": "532001",
+            "city": "Srikakulam",
+            "countryCode": " India",
+            "region": "Andhra Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "Sanjay_1718",
+                "url": "https://www.twitter.com/Sanjay_1718"
+            },
+            {
+                "network": "Github",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "linkedin",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Instagram",
+                "username": "__.sanjay._1718__",
+                "url": "https://instagram.com/__.sanjay._1718__"
+            }
+        ]
+    },
+    "work": [
+        {
+           
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Volleyball",
+                "Cricket"
+            ]
+        }
+    ]
+}
